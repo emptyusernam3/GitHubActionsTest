@@ -1,0 +1,214 @@
+{
+  "L1.dll": {
+    "C:\\BRU\\ST&D\\L1\\L1\\League.cs": {
+      "L1.League": {
+        "System.Void L1.League::SetMatchesPlayed(System.Int32,System.Int32)": {
+          "Lines": {
+            "31": 21
+          },
+          "Branches": []
+        },
+        "System.Void L1.League::SetMatchesWon(System.Int32,System.Int32)": {
+          "Lines": {
+            "33": 26
+          },
+          "Branches": []
+        },
+        "System.Void L1.League::SetMatchesLost(System.Int32,System.Int32)": {
+          "Lines": {
+            "35": 21
+          },
+          "Branches": []
+        },
+        "System.Void L1.League::SetMatchesDrawn(System.Int32,System.Int32)": {
+          "Lines": {
+            "37": 21
+          },
+          "Branches": []
+        },
+        "System.Void L1.League::SetPointsForWin(System.Int32)": {
+          "Lines": {
+            "39": 8
+          },
+          "Branches": []
+        },
+        "System.Void L1.League::SetPointsForDraw(System.Int32)": {
+          "Lines": {
+            "41": 6
+          },
+          "Branches": []
+        },
+        "System.Int32 L1.League::GetFinalPoints(System.Int32)": {
+          "Lines": {
+            "43": 10
+          },
+          "Branches": []
+        },
+        "System.Double L1.League::GetAveragePoints()": {
+          "Lines": {
+            "44": 3
+          },
+          "Branches": []
+        },
+        "System.Int32 L1.League::GetTeamsNotInTop3()": {
+          "Lines": {
+            "45": 3
+          },
+          "Branches": []
+        },
+        "System.Int32[] L1.League::GetSortedPoints()": {
+          "Lines": {
+            "48": 2,
+            "49": 2,
+            "50": 8,
+            "51": 2,
+            "52": 2
+          },
+          "Branches": []
+        },
+        "System.Void L1.League::CalculateResults()": {
+          "Lines": {
+            "54": 9,
+            "55": 9,
+            "56": 70,
+            "57": 26,
+            "58": 26,
+            "59": 26,
+            "60": 26,
+            "61": 9
+          },
+          "Branches": [
+            {
+              "Line": 56,
+              "Offset": 89,
+              "EndOffset": 12,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 26
+            },
+            {
+              "Line": 56,
+              "Offset": 89,
+              "EndOffset": 91,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 9
+            }
+          ]
+        },
+        "System.Void L1.League::DisplayResults()": {
+          "Lines": {
+            "64": 1,
+            "65": 1,
+            "66": 10,
+            "67": 4,
+            "68": 4,
+            "69": 4,
+            "72": 1,
+            "73": 1,
+            "74": 1,
+            "77": 1,
+            "78": 1,
+            "81": 5,
+            "84": 1,
+            "85": 8,
+            "86": 3,
+            "87": 3,
+            "88": 3,
+            "89": 1
+          },
+          "Branches": [
+            {
+              "Line": 66,
+              "Offset": 124,
+              "EndOffset": 16,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            },
+            {
+              "Line": 66,
+              "Offset": 124,
+              "EndOffset": 126,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 85,
+              "Offset": 493,
+              "EndOffset": 374,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 85,
+              "Offset": 493,
+              "EndOffset": 495,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.Void L1.League::.ctor(System.Int32)": {
+          "Lines": {
+            "21": 11,
+            "22": 11,
+            "23": 11,
+            "24": 11,
+            "25": 11,
+            "26": 11,
+            "27": 11,
+            "28": 11,
+            "29": 11
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\BRU\\ST&D\\L1\\L1\\Program.cs": {
+      "L1.Program": {
+        "System.Int32 L1.Program::CorrectInputInt()": {
+          "Lines": {
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": [
+            {
+              "Line": 10,
+              "Offset": 32,
+              "EndOffset": 11,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 10,
+              "Offset": 32,
+              "EndOffset": 34,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void L1.Program::Main(System.String[])": {
+          "Lines": {
+            "18": 0,
+            "61": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
